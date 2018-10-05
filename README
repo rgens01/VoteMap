@@ -1,0 +1,10 @@
+VoteMap (working title)
+
+This is a project started by Russell Gens to illustrate in an interactive, web-based data
+visualization app the impact that getting out the young vote could have on the November
+2018 election.
+
+Libraries in use:
+ - datamaps
+   - topojson
+   - d3
